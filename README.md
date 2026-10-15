@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 	10/15/2026
+# Date : 15.10.2026	
 
 # Objective
 
@@ -12,7 +12,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="1918" height="1078" alt="Screenshot 2026-07-21 135730" src="https://github.com/user-attachments/assets/20d219b2-ccc9-4d2b-a1c8-1170ac1d3c51" /> 
+Insert the network topology from Packet Tracer (Screenshot or drawing)
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -40,10 +40,10 @@ For Router Configuration (CLI):<br>
 ________________________________________
 # Output (Screenshots / Ping Results)
 
-<img width="1547" height="777" alt="Screenshot 2026-07-22 110108" src="https://github.com/user-attachments/assets/246c7952-de95-46bb-a891-c17cf67d9bb2" />
-<img width="733" height="630" alt="Screenshot 2026-07-22 105303" src="https://github.com/user-attachments/assets/536f0843-780a-426b-8b9b-45fbb43cb173" />
-<img width="1907" height="1001" alt="Screenshot 2026-07-22 105905" src="https://github.com/user-attachments/assets/020654b0-0a4b-4fca-94a6-a77e7ec832c2" />
-
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/39b19590-cc3c-4e8b-a8d9-ca0d0e843635" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a371e296-6839-42b2-8896-3d5357145070" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/8cfb4adf-2415-4e55-9e11-30ef4059dd15" />
+<img width="1600" height="899" alt="image" src="https://github.com/user-attachments/assets/a3638311-7328-4f1e-8044-42148e6a4d91" />
 
 
 ________________________________________
