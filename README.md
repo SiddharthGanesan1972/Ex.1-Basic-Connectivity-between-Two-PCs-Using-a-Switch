@@ -12,7 +12,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-
+<img width="1918" height="1078" alt="Screenshot 2026-07-21 135730" src="https://github.com/user-attachments/assets/20d219b2-ccc9-4d2b-a1c8-1170ac1d3c51" /> 
 
 ________________________________________
 # IP Addressing Table (if applicable)
@@ -39,8 +39,6 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
-
-
 
 <img width="1547" height="777" alt="Screenshot 2026-07-22 110108" src="https://github.com/user-attachments/assets/246c7952-de95-46bb-a891-c17cf67d9bb2" />
 <img width="733" height="630" alt="Screenshot 2026-07-22 105303" src="https://github.com/user-attachments/assets/536f0843-780a-426b-8b9b-45fbb43cb173" />
