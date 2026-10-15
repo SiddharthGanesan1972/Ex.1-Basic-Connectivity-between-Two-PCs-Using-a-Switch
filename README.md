@@ -12,7 +12,7 @@ ________________________________________
 ________________________________________
 # Network Topology Diagram
 
-<img width="763" height="577" alt="Screenshot 2026-07-22 110041" src="https://github.com/user-attachments/assets/ced99dcf-73d1-4acb-9a7f-0f469f0471d5" />
+
 
 ________________________________________
 # IP Addressing Table (if applicable)
